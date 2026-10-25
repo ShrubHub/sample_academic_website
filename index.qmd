@@ -1,5 +1,5 @@
 ---
-title: "The Aristocats"
+title: "Team Shrubers"
 description-meta: "Quarto Academic Website Template with Team Shrub"
 image: "files/images/placeholder4.jpg"
 page-navigation: false
@@ -44,7 +44,7 @@ about:
 
 :::{#hero-heading}
 
-I collect super cool data in the Arctic Tundra! It's pretty sweet!
+I collect super cool data in the Arctic Tundra! It's pretty sweet! Hello from Bowen Island
 
 I'm a [Quarto Academeic Website Template](https://github.com/drganghe/quarto-academic-website-template) adapted by [Dr. Gang He](http://drganghe.github.io).
 

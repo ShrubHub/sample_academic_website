@@ -12,14 +12,14 @@ website:
   description: "Quarto Academic Website Template adapted by Dr. Gang He"
  
   navbar:
-    background: light  # You can change the background color here
+    background: "#16275b"  # You can change the background color here
 
     left:   # You can comment out all navigation items here if you just like to keep the index page only
 #      - text: Home
 #        href: index.qmd
       - text: Research
         menu:
-          - text: Projects
+          - text: My Projectssssss
             href: projects.qmd
           - text: Publications  # Manually curated list of publications
             href: publications.qmd
@@ -84,7 +84,7 @@ bibliography: references.bib  # Add references.bib to the root folder to enable 
 
 format:
   html:
-    theme: cosmo
+    theme: lux
     css: styles.css
     toc: true
     footnotes-hover: true
